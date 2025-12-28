@@ -1,7 +1,7 @@
----
-manufacturer:
+manufacturercturer:
     - tecno
 
+infinix 
 ---
 
 ## Power Saving Management
@@ -111,6 +111,4 @@ Disable **Short Video Optimization** - this option is probably for apps like Tik
     <img src="/assets/img/tecno/tecno_sleep_video.jpg">
       </figure>
 
-</div>
-
-
+</cturer
